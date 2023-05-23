@@ -1,2 +1,2 @@
 
-Olá! Este é um projecto experimental de utilizaçºao do Git e do Github!
+Olá! Este é um projecto experimental de utilizaçao do Git e do Github!
